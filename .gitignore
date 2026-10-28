@@ -1,0 +1,5 @@
+matlab/data/
+*.o
+petsc/wavelet_outer_comparison
+*.asv
+__pycache__/

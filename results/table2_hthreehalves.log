@@ -1,0 +1,16 @@
+PARAMETERS N=64 epsilon=0.01 k=16 ppw=25.132741 H/h=8 ell=3
+OVERLAP delta/H=0.5 delta/h=4 interior_width/h=16 L=4
+TRACE_RESULT N=64 ell=3 method=fgmres20 PC=2 flag=0 residual=2.805886741672e-07
+TRACE_RESULT N=64 ell=3 method=stationary PC=2 flag=0 residual=2.825326802206e-07
+PARAMETERS N=128 epsilon=0.01 k=25.3984168315 ppw=31.66527 H/h=8 ell=3
+OVERLAP delta/H=0.5 delta/h=4 interior_width/h=16 L=4
+TRACE_RESULT N=128 ell=3 method=fgmres20 PC=2 flag=0 residual=4.087502160623e-07
+TRACE_RESULT N=128 ell=3 method=stationary PC=2 flag=0 residual=4.191846954732e-07
+PARAMETERS N=256 epsilon=0.01 k=40.3174735966 ppw=39.89574 H/h=8 ell=3
+OVERLAP delta/H=0.5 delta/h=4 interior_width/h=16 L=4
+TRACE_RESULT N=256 ell=3 method=fgmres20 PC=2 flag=0 residual=5.255835547958e-07
+TRACE_RESULT N=256 ell=3 method=stationary PC=2 flag=0 residual=5.602717994214e-07
+PARAMETERS N=512 epsilon=0.01 k=64 ppw=50.265482 H/h=16 ell=4
+OVERLAP delta/H=0.5 delta/h=8 interior_width/h=32 L=5
+TRACE_RESULT N=512 ell=4 method=fgmres20 PC=2 flag=0 residual=4.688230195558e-09
+TRACE_RESULT N=512 ell=4 method=stationary PC=2 flag=0 residual=4.684778481537e-09

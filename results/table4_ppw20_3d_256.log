@@ -1,0 +1,2 @@
+OUTER_RESULT fgmres20 N=256 PC=5 reason=2 residual=4.747528253530e-08 solve=8.399
+OUTER_RESULT stationary N=256 PC=5 reason=2 residual=2.026753496190e-07 solve=8.309
